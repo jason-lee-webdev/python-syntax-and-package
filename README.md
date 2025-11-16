@@ -1,6 +1,6 @@
 ### 참고한 강의
 이 프로젝트의 코드는  
-[<모두를 위한 파이썬 : 필수 문법 배우기 Feat. 오픈소스 패키지 배포 (Inflearn Original)>](https://www.inflearn.com/course/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A4%91%EA%B3%A0%EA%B8%89)
+[<모두를 위한 파이썬 : 필수 문법 배우기 Feat. 오픈소스 패키지 배포 (Inflearn Original)>](https://inf.run/Pjors)
 강의를 기반으로 학습하며 직접 작성한 실습용 코드입니다.
 
 강의 내용을 그대로 복사한 것이 아니라, 학습 과정에서 이해한 내용을 정리하고 재구성하여 작성했습니다.
